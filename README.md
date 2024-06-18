@@ -59,7 +59,7 @@ To replicate or further develop this project, the following components are requi
 
    Connect the ultrasonic sensor, buzzer, and other components following the circuit diagram provided (hardware_diagram.png).
 
-   ![Third Eye for Blinds](https://github.com/Ashok-AT/Third-Eye-for-Blind-Peoples/CircuitDiag.JPG)
+   ![Third Eye for Blinds](CircuitDiag.JPG)
 
 ## Usage
 
