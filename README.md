@@ -50,39 +50,42 @@ To replicate or further develop this project, the following components are requi
    ```
 2. **Set up Arduino IDE:**
 
-Connect Arduino UNO to your computer.
-Open Arduino IDE and upload the code provided in the repository (ThirdEyeForBlinds.ino).
+   Connect Arduino UNO to your computer.
+   Open Arduino IDE and upload the code provided in the repository (ThirdEyeForBlinds.ino).
 
 3. **Assemble the hardware:**
 
-Connect the ultrasonic sensor, buzzer, and other components following the circuit diagram provided (hardware_diagram.png).
+   Connect the ultrasonic sensor, buzzer, and other components following the circuit diagram provided (hardware_diagram.png).
 
 ## Usage
 
 1. **Power on the device:**
 
-Ensure the hardware components are properly connected and powered.
+   Ensure the hardware components are properly connected and powered.
 
 2. **Navigate your surroundings:**
 
-Wear the device or place it in a convenient location.
-Move around to detect obstacles using the auditory feedback from the buzzer.
+   Wear the device or place it in a convenient location.
+   Move around to detect obstacles using the auditory feedback from the buzzer.
 
 ## Algorithm
 
 - <b>Sensor Integration:</b> Connect and configure all sensors using IoT principles.
-- Distance Calculation: Utilize the ultrasonic sensor to measure the distance of detected objects.
-- Alert System: Emit alert sounds through the buzzer upon detecting objects.
-- Proximity Feedback: Increase beep frequency as objects approach closer.
-- Automatic Control: Automatically cease beeping when obstacles move away from the sensor's range.
+- <b>Distance Calculation:</b> Utilize the ultrasonic sensor to measure the distance of detected objects.
+- <b>**Alert System:</b> Emit alert sounds through the buzzer upon detecting objects.
+- <b>Proximity Feedback:</b> Increase beep frequency as objects approach closer.
+- <b>Automatic Control:</b> Automatically cease beeping when obstacles move away from the sensor's range.
 
 ## Future Enhancements
-Future developments include:
 
-Integration into a wearable jacket for continuous and inconspicuous use.
-Use of specialized boards and advanced sensors for faster response times in crowded environments.
-Further feature enhancements leveraging technological advancements for broader applications beyond navigation assistance.
-Contributing
+<b>Future developments include:</b>
+
+- Integration into a wearable jacket for continuous and inconspicuous use.
+- Use of specialized boards and advanced sensors for faster response times in crowded environments.
+- Further feature enhancements leveraging technological advancements for broader applications beyond navigation assistance.
+
+## Contributing
+
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes relevant documentation.
 
 License
