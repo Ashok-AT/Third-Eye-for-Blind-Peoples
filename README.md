@@ -46,29 +46,37 @@ To replicate or further develop this project, the following components are requi
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ashok-AT/Third-Eye-for-Blind-Peoples.git
-   cd third-eye-for-blinds
-Set up Arduino IDE:
+   cd Third-Eye-for-Blinds-Peoples
+   ```
+2. **Set up Arduino IDE:**
 
 Connect Arduino UNO to your computer.
 Open Arduino IDE and upload the code provided in the repository (ThirdEyeForBlinds.ino).
-Assemble the hardware:
+
+3. **Assemble the hardware:**
 
 Connect the ultrasonic sensor, buzzer, and other components following the circuit diagram provided (hardware_diagram.png).
-Usage
-Power on the device:
+
+## Usage
+
+1. **Power on the device:**
 
 Ensure the hardware components are properly connected and powered.
-Navigate your surroundings:
+
+2. **Navigate your surroundings:**
 
 Wear the device or place it in a convenient location.
 Move around to detect obstacles using the auditory feedback from the buzzer.
-Algorithm
-Sensor Integration: Connect and configure all sensors using IoT principles.
-Distance Calculation: Utilize the ultrasonic sensor to measure the distance of detected objects.
-Alert System: Emit alert sounds through the buzzer upon detecting objects.
-Proximity Feedback: Increase beep frequency as objects approach closer.
-Automatic Control: Automatically cease beeping when obstacles move away from the sensor's range.
-Future Enhancements
+
+## Algorithm
+
+- <b>Sensor Integration:</b> Connect and configure all sensors using IoT principles.
+- Distance Calculation: Utilize the ultrasonic sensor to measure the distance of detected objects.
+- Alert System: Emit alert sounds through the buzzer upon detecting objects.
+- Proximity Feedback: Increase beep frequency as objects approach closer.
+- Automatic Control: Automatically cease beeping when obstacles move away from the sensor's range.
+
+## Future Enhancements
 Future developments include:
 
 Integration into a wearable jacket for continuous and inconspicuous use.
