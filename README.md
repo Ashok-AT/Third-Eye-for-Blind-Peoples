@@ -59,6 +59,8 @@ To replicate or further develop this project, the following components are requi
 
    Connect the ultrasonic sensor, buzzer, and other components following the circuit diagram provided (hardware_diagram.png).
 
+   CircuitDiag.JPG
+
 ## Usage
 
 1. **Power on the device:**
