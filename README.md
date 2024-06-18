@@ -45,7 +45,7 @@ To replicate or further develop this project, the following components are requi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/third-eye-for-blinds.git
+   git clone https://github.com/Ashok-AT/Third-Eye-for-Blind-Peoples.git
    cd third-eye-for-blinds
 Set up Arduino IDE:
 
