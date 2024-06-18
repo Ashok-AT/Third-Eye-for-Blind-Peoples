@@ -2,6 +2,8 @@
 
 "Third Eye for Blinds" is an innovative IoT-based project designed to assist visually impaired individuals in navigating their surroundings independently and safely.
 
+<b>Demonstration Video:</b> [Click Here](https://youtu.be/8jK_yxwyhK8) 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -88,4 +90,6 @@ To replicate or further develop this project, the following components are requi
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes relevant documentation.
 
-License
+## License
+
+You can fully copy or redistribute any part including assets, no License or credit required.
